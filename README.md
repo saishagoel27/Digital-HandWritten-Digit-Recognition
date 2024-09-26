@@ -7,15 +7,15 @@ Description: This dataset consists of 70,000 labeled images of handwritten digit
 3. Model Overview
 The model is built using TensorFlow and Keras, a deep learning framework.
 It consists of:
-Input Layer: Images of size 28x28 pixels.
-Hidden Layers: A combination of convolutional layers and fully connected layers.
-Output Layer: 10 neurons (one for each digit, 0-9) with a softmax activation function to predict the class probability.
+ i. Input Layer: Images of size 28x28 pixels.
+ ii. Hidden Layers: A combination of convolutional layers and fully connected layers.
+ iii. Output Layer: 10 neurons (one for each digit, 0-9) with a softmax activation function to predict the class probability.
 4. Technologies Used
 Languages: Python
 Libraries:
-TensorFlow
-Keras
-NumPy
-Matplotlib
-Pandas
+TensorFlow,
+Keras,
+NumPy,
+Matplotlib,
+Pandas,
 Jupyter Notebooks
