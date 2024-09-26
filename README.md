@@ -12,6 +12,7 @@ It consists of:
  iii. Output Layer: 10 neurons (one for each digit, 0-9) with a softmax activation function to predict the class probability.
 4. Technologies Used:
 Languages: Python
+
 Libraries:
 TensorFlow,
 Keras,
