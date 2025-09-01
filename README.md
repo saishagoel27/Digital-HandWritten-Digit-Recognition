@@ -8,22 +8,13 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-93.6%25-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-<!-- Add these killer ML GIFs -->
-<img src="https://raw.githubusercontent.com/yourusername/your-repo/main/assets/neural_network_animation.gif" alt="Neural Network Training" width="400"/>
 
 *From scribbled numbers to digital precision in milliseconds*
 
 </div>
 
-## 🎬 Watch the Magic Happen
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/yourusername/your-repo/main/assets/digit_recognition_demo.gif" alt="Live Digit Recognition" width="500"/>
-<br>
-<em>Real-time digit recognition in action</em>
-</div>
-
-## 🎯 The Problem That Keeps Us Up at Night
+##  The Problem That Keeps Us Up at Night
 
 Ever wondered how your phone instantly recognizes the numbers you scribble on the screen? Or how banks process millions of handwritten checks? The answer lies in the fascinating world of computer vision and neural networks.
 
@@ -31,11 +22,11 @@ Ever wondered how your phone instantly recognizes the numbers you scribble on th
 
 ## ✨ What Makes This Special
 
-🔥 **Lightning Fast**: Processes digits in under 50ms  
-🎯 **Battle-Tested**: Trained on 60,000 real handwritten samples  
-🧠 **Smart Architecture**: Optimized neural network that learns like humans do  
-📊 **Production Ready**: Includes model weights and inference pipeline  
-🛡️ **Robust**: Handles various handwriting styles and image qualities  
+**Lightning Fast**: Processes digits in under 50ms  
+**Battle-Tested**: Trained on 60,000 real handwritten samples  
+**Smart Architecture**: Optimized neural network that learns like humans do  
+**Production Ready**: Includes model weights and inference pipeline  
+**Robust**: Handles various handwriting styles and image qualities  
 
 ## 🚀 See It In Action
 
@@ -59,12 +50,6 @@ print(f"📊 Confidence: {confidence:.1f}%")
 
 ## 🧬 The Neural Architecture
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/yourusername/your-repo/main/assets/network_architecture.gif" alt="Neural Network Architecture" width="600"/>
-<br>
-<em>Watch data flow through our neural network</em>
-</div>
-
 Our model uses a carefully crafted architecture that mirrors human visual processing:
 
 ```
@@ -79,12 +64,6 @@ Input Layer (784 neurons) → Dense Layer (10 neurons) → Softmax Output
 - **Adam Optimizer**: Self-adjusting learning rates for faster convergence
 
 ## 📊 Training Results
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/yourusername/your-repo/main/assets/training_progress.gif" alt="Training Progress Animation" width="500"/>
-<br>
-<em>Loss decreasing and accuracy improving over 20 epochs</em>
-</div>
 
 | Metric | Value | 
 |--------|-------|
@@ -155,12 +134,6 @@ model.fit(x_train, y_train, epochs=20)
 
 ## 🎨 Dataset Deep Dive
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/yourusername/your-repo/main/assets/mnist_samples.gif" alt="MNIST Dataset Samples" width="400"/>
-<br>
-<em>Random samples from our training dataset</em>
-</div>
-
 **MNIST Dataset Stats:**
 - 📚 **70,000 total images** (60k training + 10k testing)
 - 🖼️ **Image size:** 28×28 pixels, grayscale
@@ -170,13 +143,6 @@ model.fit(x_train, y_train, epochs=20)
 
 Each image is a carefully curated example of human handwriting, collected from American Census Bureau employees and high school students.
 
-## 🔬 Data Visualization
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/yourusername/your-repo/main/assets/pixel_heatmap.gif" alt="Pixel Activation Heatmap" width="450"/>
-<br>
-<em>Heatmap showing which pixels matter most for each digit</em>
-</div>
 
 ## 🔬 Technical Implementation
 
