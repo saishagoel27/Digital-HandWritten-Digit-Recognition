@@ -1,4 +1,4 @@
-# 🧠 MNIST Handwritten Digit Recognition
+#  MNIST Handwritten Digit Recognition
 *A simple neural network that recognizes handwritten digits*
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 </div>
 
-## 🎯 What This Project Does
+##  What This Project Does
 
 This is a beginner-friendly implementation of handwritten digit recognition using:
 - **MNIST Dataset**: 70,000 images of handwritten digits (0-9)
@@ -21,7 +21,7 @@ This is a beginner-friendly implementation of handwritten digit recognition usin
 
 Perfect for understanding the fundamentals of neural networks and image classification!
 
-## 🚀 Quick Demo
+##  Quick Demo
 
 ```python
 # Load a test image
@@ -125,7 +125,7 @@ predictions = model.predict(x_test_final)
 predicted_digit = np.argmax(predictions[0])
 ```
 
-## 🎓 What You'll Learn
+## What You'll Learn
 
 - **Neural Network Basics**: How dense layers work
 - **Image Preprocessing**: Flattening and normalization
@@ -133,7 +133,7 @@ predicted_digit = np.argmax(predictions[0])
 - **Model Persistence**: Saving and loading trained weights
 - **Making Predictions**: Converting model output to classifications
 
-## 🚀 Next Steps (Ideas for Enhancement)
+##  Next Steps (Ideas for Enhancement)
 
 - [ ] Add more layers to improve accuracy
 - [ ] Implement CNN (Convolutional Neural Network)
@@ -154,7 +154,7 @@ A: Not directly implemented, but you could preprocess your own 28×28 images.
 **Q: Why sigmoid activation?**  
 A: Simple choice for learning. ReLU or softmax might work better.
 
-## 📖 Learning Resources
+## Learning Resources
 
 - [MNIST Database Info](http://yann.lecun.com/exdb/mnist/)
 - [TensorFlow Beginner Tutorial](https://www.tensorflow.org/tutorials/quickstart/beginner)
