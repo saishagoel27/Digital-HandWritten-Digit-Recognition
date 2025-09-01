@@ -208,15 +208,6 @@ confidence_score = max(prediction_probabilities) * 100
 - [ ] AWS/GCP cloud deployment
 - [ ] Performance monitoring
 
-## 🤝 Contributing
-
-Found a bug? Have an improvement? We'd love your help!
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📚 Learn More
 
@@ -232,9 +223,6 @@ Found a bug? Have an improvement? We'd love your help!
 - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
 - [Keras API Reference](https://keras.io/api/)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🌟 Acknowledgments
 
